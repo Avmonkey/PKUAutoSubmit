@@ -221,7 +221,7 @@ def run(driver, username, password, campus, reason, destination, track,
     fill_in(driver, campus, reason, habitation, district, street)
 
     print('=================================')
-    print('可以愉快的玩耍啦！')
+    print('可以愉快的玩耍啦！！')
 
 
 if __name__ == '__main__':
